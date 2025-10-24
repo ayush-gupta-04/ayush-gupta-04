@@ -23,86 +23,93 @@ I am a **Full Stack Developer** Studying CSE in BIT Mesra , Passionate about bui
 
 Here are a few technologies and concepts I've been working with:
 
-<table width = "100%">
-  <tr>
-    <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" />
-      </a>
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" />
-      </a>
-      <br>TypeScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" />
-      </a>
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" />
-      </a>
-      <br>Tailwind CSS
-    </td>
-    <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" />
-      </a>
-      <br>Figma
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" />
-      </a>
-      <br>Redis
-    </td>
-  </tr>
-</table>
+## 💻 My Tech Stack
+
+Here are a few technologies and concepts I've been working with:
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="#-my-tech-stack">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" />
+        </a>
+        <br>HTML5
+      </td>
+      <td align="center" width="96">
+        <a href="#-my-tech-stack">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" />
+        </a>
+        <br>CSS3
+      </td>
+      <td align="center" width="96">
+        <a href="#-my-tech-stack">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" />
+        </a>
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <a href="#-my-tech-stack">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" />
+        </a>
+        <br>TypeScript
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <a href="#-my-tech-stack">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" />
+        </a>
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <a href="#-my-tech-stack">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" />
+        </a>
+        <br>Next.js
+      </td>
+      <td align="center" width="96">
+        <a href="#-my-tech-stack">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" />
+        </a>
+        <br>Tailwind CSS
+      </td>
+      <td align="center" width="96">
+        <a href="#-my-tech-stack">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" />
+        </a>
+        <br>Figma
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <a href="#-my-tech-stack">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" />
+        </a>
+        <br>Java
+      </td>
+      <td align="center" width="96">
+        <a href="#-my-tech-stack">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" />
+        </a>
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <a href="#-my-tech-stack">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" />
+        </a>
+        <br>MongoDB
+      </td>
+      <td align="center" width="96">
+        <a href="#-my-tech-stack">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" />
+        </a>
+        <br>Redis
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
