@@ -10,8 +10,8 @@ I am a **Full Stack Developer** Studying CSE in BIT Mesra , Passionate about bui
 
 ## 🔭 I’m Currently Working On
 
-* Building [Exchange](), A Web-Based Platform where you can Invest in Stocks.
-* Building [Chess King]() , A Web-Based Multiplayer chess platform to play chess with you college mates.
+* Building [Exchange](https://github.com/ayush-gupta-04/exchange), A Web-Based Platform where you can Invest in Stocks.
+* Building [Chess King](https://github.com/ayush-gupta-04/Chess-King) , A Web-Based Multiplayer chess platform to play chess with you college mates.
 * Learning advance backend communications using microservices.
 * Learning DSA and Increasing my Problem Solving Skills.
 
