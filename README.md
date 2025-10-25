@@ -168,23 +168,23 @@ Here are a few technologies and concepts I've been working with:
 <div align="center">
   
 <a href="mailto:ag451448@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
+<img src="./gmail.png" width=50 height=50 alt="ag451448@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://x.com/me_AyushGupta_" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
+<img src="./twitter.png" width=50 height=50 alt="me_AyushGupta_" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/ayush__gupta_04/" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
+<img src="./instagram.png" width=50 height=50 alt="ayush__gupta_04" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.githubcom/ayush-gupta-04" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
+<img src="./github.png" width=50 height=50 alt="ayush-gupta-04" style="margin-bottom: 5px;" />
 </a>
 
 <a href="www.linkedin.com/in/ayush-gupta-r10858" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+<img src="./linkedin.png" width=50 height=50 alt="ayush-gupta-r10858" style="margin-bottom: 5px;" />
 </a>
 
 </a>
